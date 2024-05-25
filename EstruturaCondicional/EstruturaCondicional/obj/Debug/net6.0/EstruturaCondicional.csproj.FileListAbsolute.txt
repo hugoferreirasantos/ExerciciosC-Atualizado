@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\refint\EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\ref\EstruturaCondicional.dll

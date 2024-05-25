@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\bin\Debug\net8.0\ExemplosDeMatrizes.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\bin\Debug\net8.0\ExemplosDeMatrizes.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\bin\Debug\net8.0\ExemplosDeMatrizes.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\bin\Debug\net8.0\ExemplosDeMatrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\bin\Debug\net8.0\ExemplosDeMatrizes.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\refint\ExemplosDeMatrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ExemplosDeMatrizes.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExemplosDeMatrizes\ExemplosDeMatrizes\obj\Debug\net8.0\ref\ExemplosDeMatrizes.dll

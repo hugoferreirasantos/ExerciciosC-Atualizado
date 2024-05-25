@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\bin\Debug\net6.0\Exercicio1132EstruturaRepeticao.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\bin\Debug\net6.0\Exercicio1132EstruturaRepeticao.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\bin\Debug\net6.0\Exercicio1132EstruturaRepeticao.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\bin\Debug\net6.0\Exercicio1132EstruturaRepeticao.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\bin\Debug\net6.0\Exercicio1132EstruturaRepeticao.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\refint\Exercicio1132EstruturaRepeticao.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\Exercicio1132EstruturaRepeticao.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1132EstruturaRepeticao\Exercicio1132EstruturaRepeticao\obj\Debug\net6.0\ref\Exercicio1132EstruturaRepeticao.dll

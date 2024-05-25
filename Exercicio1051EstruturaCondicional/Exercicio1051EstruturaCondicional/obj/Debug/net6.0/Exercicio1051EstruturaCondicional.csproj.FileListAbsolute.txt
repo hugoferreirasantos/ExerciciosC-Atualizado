@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\bin\Debug\net6.0\Exercicio1051EstruturaCondicional.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\bin\Debug\net6.0\Exercicio1051EstruturaCondicional.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\bin\Debug\net6.0\Exercicio1051EstruturaCondicional.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\bin\Debug\net6.0\Exercicio1051EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\bin\Debug\net6.0\Exercicio1051EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\refint\Exercicio1051EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\Exercicio1051EstruturaCondicional.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1051EstruturaCondicional\Exercicio1051EstruturaCondicional\obj\Debug\net6.0\ref\Exercicio1051EstruturaCondicional.dll

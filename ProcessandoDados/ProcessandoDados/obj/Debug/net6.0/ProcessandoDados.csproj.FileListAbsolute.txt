@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\bin\Debug\net6.0\ProcessandoDados.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\bin\Debug\net6.0\ProcessandoDados.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\bin\Debug\net6.0\ProcessandoDados.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\bin\Debug\net6.0\ProcessandoDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\bin\Debug\net6.0\ProcessandoDados.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\refint\ProcessandoDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ProcessandoDados.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ProcessandoDados\ProcessandoDados\obj\Debug\net6.0\ref\ProcessandoDados.dll

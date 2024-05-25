@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIUa7v1E3pYFQfi1VwsBm8YP/RnQrAklgMYx8+iShBgwMh6xHWLfH4Rpmw3irzytOl2azX3k0Ceb5UwtYTClTw==",
+  "success": true,
+  "projectFilePath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1097EstruturaRepeticao\\Exercicio1097EstruturaRepeticao\\Exercicio1097EstruturaRepeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\hugo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

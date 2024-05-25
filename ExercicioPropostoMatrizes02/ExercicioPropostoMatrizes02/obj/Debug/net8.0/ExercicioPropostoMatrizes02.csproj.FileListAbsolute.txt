@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\bin\Debug\net8.0\ExercicioPropostoMatrizes02.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\bin\Debug\net8.0\ExercicioPropostoMatrizes02.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\bin\Debug\net8.0\ExercicioPropostoMatrizes02.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\bin\Debug\net8.0\ExercicioPropostoMatrizes02.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\bin\Debug\net8.0\ExercicioPropostoMatrizes02.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\refint\ExercicioPropostoMatrizes02.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ExercicioPropostoMatrizes02.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatrizes02\ExercicioPropostoMatrizes02\obj\Debug\net8.0\ref\ExercicioPropostoMatrizes02.dll

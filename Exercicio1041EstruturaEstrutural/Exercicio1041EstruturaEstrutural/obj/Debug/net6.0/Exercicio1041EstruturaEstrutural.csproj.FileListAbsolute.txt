@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\bin\Debug\net6.0\Exercicio1041EstruturaEstrutural.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\bin\Debug\net6.0\Exercicio1041EstruturaEstrutural.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\bin\Debug\net6.0\Exercicio1041EstruturaEstrutural.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\bin\Debug\net6.0\Exercicio1041EstruturaEstrutural.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\bin\Debug\net6.0\Exercicio1041EstruturaEstrutural.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\refint\Exercicio1041EstruturaEstrutural.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\Exercicio1041EstruturaEstrutural.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1041EstruturaEstrutural\Exercicio1041EstruturaEstrutural\obj\Debug\net6.0\ref\Exercicio1041EstruturaEstrutural.dll

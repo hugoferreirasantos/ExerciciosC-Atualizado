@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net6.0\EstruturaSwitchCase.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net6.0\EstruturaSwitchCase.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net6.0\EstruturaSwitchCase.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net6.0\EstruturaSwitchCase.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net6.0\EstruturaSwitchCase.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\refint\EstruturaSwitchCase.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\EstruturaSwitchCase.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net6.0\ref\EstruturaSwitchCase.dll

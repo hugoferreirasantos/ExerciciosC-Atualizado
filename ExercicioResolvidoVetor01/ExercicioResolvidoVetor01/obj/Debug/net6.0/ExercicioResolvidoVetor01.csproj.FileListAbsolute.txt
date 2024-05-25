@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\bin\Debug\net6.0\ExercicioResolvidoVetor01.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\bin\Debug\net6.0\ExercicioResolvidoVetor01.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\bin\Debug\net6.0\ExercicioResolvidoVetor01.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\bin\Debug\net6.0\ExercicioResolvidoVetor01.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\bin\Debug\net6.0\ExercicioResolvidoVetor01.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\refint\ExercicioResolvidoVetor01.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ExercicioResolvidoVetor01.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvidoVetor01\ExercicioResolvidoVetor01\obj\Debug\net6.0\ref\ExercicioResolvidoVetor01.dll

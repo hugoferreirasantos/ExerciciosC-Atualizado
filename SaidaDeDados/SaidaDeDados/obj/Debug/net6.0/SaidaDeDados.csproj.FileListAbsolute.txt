@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\refint\SaidaDeDados.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\ref\SaidaDeDados.dll

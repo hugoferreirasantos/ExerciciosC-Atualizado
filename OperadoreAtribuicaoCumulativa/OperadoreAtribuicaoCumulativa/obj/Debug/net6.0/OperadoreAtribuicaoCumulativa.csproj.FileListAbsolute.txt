@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\bin\Debug\net6.0\OperadoreAtribuicaoCumulativa.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\bin\Debug\net6.0\OperadoreAtribuicaoCumulativa.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\bin\Debug\net6.0\OperadoreAtribuicaoCumulativa.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\bin\Debug\net6.0\OperadoreAtribuicaoCumulativa.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\bin\Debug\net6.0\OperadoreAtribuicaoCumulativa.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\refint\OperadoreAtribuicaoCumulativa.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\OperadoreAtribuicaoCumulativa.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\OperadoreAtribuicaoCumulativa\OperadoreAtribuicaoCumulativa\obj\Debug\net6.0\ref\OperadoreAtribuicaoCumulativa.dll

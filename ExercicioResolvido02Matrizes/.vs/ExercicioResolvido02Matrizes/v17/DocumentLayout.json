@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02Matrizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9266F31-548B-45DE-960F-8FCD2C0B4A83}|ExercicioResolvido02Matrizes\\ExercicioResolvido02Matrizes.csproj|d:\\ambiente_desenvolvimento\\aulas_c#\\projetos visual studio c sharp\\exercicioresolvido02matrizes\\exercicioresolvido02matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9266F31-548B-45DE-960F-8FCD2C0B4A83}|ExercicioResolvido02Matrizes\\ExercicioResolvido02Matrizes.csproj|solutionrelative:exercicioresolvido02matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02Matrizes\\ExercicioResolvido02Matrizes\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido02Matrizes\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02Matrizes\\ExercicioResolvido02Matrizes\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido02Matrizes\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:00:22.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

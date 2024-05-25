@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\bin\Debug\net6.0\DeclaracoesVariaveis.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\bin\Debug\net6.0\DeclaracoesVariaveis.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\bin\Debug\net6.0\DeclaracoesVariaveis.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\bin\Debug\net6.0\DeclaracoesVariaveis.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\bin\Debug\net6.0\DeclaracoesVariaveis.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\refint\DeclaracoesVariaveis.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\DeclaracoesVariaveis.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\DeclaracoesVariaveis\DeclaracoesVariaveis\obj\Debug\net6.0\ref\DeclaracoesVariaveis.dll

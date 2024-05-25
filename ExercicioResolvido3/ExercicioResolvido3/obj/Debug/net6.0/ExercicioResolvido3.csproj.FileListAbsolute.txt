@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\refint\ExercicioResolvido3.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\net6.0\ref\ExercicioResolvido3.dll

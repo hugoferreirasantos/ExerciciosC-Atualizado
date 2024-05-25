@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\bin\Debug\net8.0\ExercicioResolvido02Matrizes.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\bin\Debug\net8.0\ExercicioResolvido02Matrizes.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\bin\Debug\net8.0\ExercicioResolvido02Matrizes.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\bin\Debug\net8.0\ExercicioResolvido02Matrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\bin\Debug\net8.0\ExercicioResolvido02Matrizes.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\refint\ExercicioResolvido02Matrizes.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ExercicioResolvido02Matrizes.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioResolvido02Matrizes\ExercicioResolvido02Matrizes\obj\Debug\net8.0\ref\ExercicioResolvido02Matrizes.dll

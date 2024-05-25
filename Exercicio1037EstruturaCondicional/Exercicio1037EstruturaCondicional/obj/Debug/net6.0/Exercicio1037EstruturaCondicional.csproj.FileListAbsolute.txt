@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\bin\Debug\net6.0\Exercicio1037EstruturaCondicional.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\bin\Debug\net6.0\Exercicio1037EstruturaCondicional.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\bin\Debug\net6.0\Exercicio1037EstruturaCondicional.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\bin\Debug\net6.0\Exercicio1037EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\bin\Debug\net6.0\Exercicio1037EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\refint\Exercicio1037EstruturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\Exercicio1037EstruturaCondicional.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1037EstruturaCondicional\Exercicio1037EstruturaCondicional\obj\Debug\net6.0\ref\Exercicio1037EstruturaCondicional.dll

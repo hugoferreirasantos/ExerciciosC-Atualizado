@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\bin\Debug\net6.0\Problema01UriOnlineJudge.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\bin\Debug\net6.0\Problema01UriOnlineJudge.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\bin\Debug\net6.0\Problema01UriOnlineJudge.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\bin\Debug\net6.0\Problema01UriOnlineJudge.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\bin\Debug\net6.0\Problema01UriOnlineJudge.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\refint\Problema01UriOnlineJudge.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\Problema01UriOnlineJudge.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Problema01UriOnlineJudge\Problema01UriOnlineJudge\obj\Debug\net6.0\ref\Problema01UriOnlineJudge.dll

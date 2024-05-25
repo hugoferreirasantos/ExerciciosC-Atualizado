@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\bin\Debug\net6.0\Exercicio1061.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\bin\Debug\net6.0\Exercicio1061.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\bin\Debug\net6.0\Exercicio1061.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\bin\Debug\net6.0\Exercicio1061.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\bin\Debug\net6.0\Exercicio1061.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\refint\Exercicio1061.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\Exercicio1061.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1061\Exercicio1061\obj\Debug\net6.0\ref\Exercicio1061.dll

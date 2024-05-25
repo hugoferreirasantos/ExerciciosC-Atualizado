@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02EstruturaVetor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E398E2F-02F4-42CB-B926-362ACE2AAD01}|ExercicioResolvido02EstruturaVetor\\ExercicioResolvido02EstruturaVetor.csproj|d:\\ambiente_desenvolvimento\\aulas_c#\\projetos visual studio c sharp\\exercicioresolvido02estruturavetor\\exercicioresolvido02estruturavetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E398E2F-02F4-42CB-B926-362ACE2AAD01}|ExercicioResolvido02EstruturaVetor\\ExercicioResolvido02EstruturaVetor.csproj|solutionrelative:exercicioresolvido02estruturavetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02EstruturaVetor\\ExercicioResolvido02EstruturaVetor\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido02EstruturaVetor\\Program.cs",
+              "ToolTip": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\ExercicioResolvido02EstruturaVetor\\ExercicioResolvido02EstruturaVetor\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido02EstruturaVetor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:49:35.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

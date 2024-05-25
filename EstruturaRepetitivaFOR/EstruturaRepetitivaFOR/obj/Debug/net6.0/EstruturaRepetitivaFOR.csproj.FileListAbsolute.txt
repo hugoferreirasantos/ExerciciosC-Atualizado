@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\bin\Debug\net6.0\EstruturaRepetitivaFOR.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\bin\Debug\net6.0\EstruturaRepetitivaFOR.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\bin\Debug\net6.0\EstruturaRepetitivaFOR.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\bin\Debug\net6.0\EstruturaRepetitivaFOR.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\bin\Debug\net6.0\EstruturaRepetitivaFOR.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\refint\EstruturaRepetitivaFOR.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\EstruturaRepetitivaFOR.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaFOR\EstruturaRepetitivaFOR\obj\Debug\net6.0\ref\EstruturaRepetitivaFOR.dll

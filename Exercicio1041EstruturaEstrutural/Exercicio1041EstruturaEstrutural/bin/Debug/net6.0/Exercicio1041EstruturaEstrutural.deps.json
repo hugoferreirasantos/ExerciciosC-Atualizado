@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio1041EstruturaEstrutural/1.0.0": {
+        "runtime": {
+          "Exercicio1041EstruturaEstrutural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1041EstruturaEstrutural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

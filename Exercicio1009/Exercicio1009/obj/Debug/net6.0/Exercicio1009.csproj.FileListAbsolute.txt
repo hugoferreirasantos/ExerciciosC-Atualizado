@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\bin\Debug\net6.0\Exercicio1009.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\bin\Debug\net6.0\Exercicio1009.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\bin\Debug\net6.0\Exercicio1009.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\bin\Debug\net6.0\Exercicio1009.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\bin\Debug\net6.0\Exercicio1009.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\refint\Exercicio1009.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\Exercicio1009.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1009\Exercicio1009\obj\Debug\net6.0\ref\Exercicio1009.dll

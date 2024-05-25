@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio1051EstruturaCondicional/1.0.0": {
+        "runtime": {
+          "Exercicio1051EstruturaCondicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1051EstruturaCondicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

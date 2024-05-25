@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\bin\Debug\net6.0\IntroducaoVetores.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\bin\Debug\net6.0\IntroducaoVetores.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\bin\Debug\net6.0\IntroducaoVetores.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\bin\Debug\net6.0\IntroducaoVetores.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\bin\Debug\net6.0\IntroducaoVetores.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\refint\IntroducaoVetores.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\IntroducaoVetores.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\IntroducaoVetores\IntroducaoVetores\obj\Debug\net6.0\ref\IntroducaoVetores.dll

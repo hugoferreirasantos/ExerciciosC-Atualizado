@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio1133EstruturaRepetitiva/1.0.0": {
+        "runtime": {
+          "Exercicio1133EstruturaRepetitiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1133EstruturaRepetitiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

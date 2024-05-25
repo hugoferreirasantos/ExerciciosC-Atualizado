@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\bin\Debug\net6.0\EstruturaRepetitivaEquanto.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\bin\Debug\net6.0\EstruturaRepetitivaEquanto.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\bin\Debug\net6.0\EstruturaRepetitivaEquanto.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\bin\Debug\net6.0\EstruturaRepetitivaEquanto.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\bin\Debug\net6.0\EstruturaRepetitivaEquanto.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\refint\EstruturaRepetitivaEquanto.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\EstruturaRepetitivaEquanto.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\EstruturaRepetitivaEquanto\EstruturaRepetitivaEquanto\obj\Debug\net6.0\ref\EstruturaRepetitivaEquanto.dll

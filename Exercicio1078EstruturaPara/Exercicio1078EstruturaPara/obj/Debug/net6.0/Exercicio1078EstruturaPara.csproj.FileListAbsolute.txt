@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\bin\Debug\net6.0\Exercicio1078EstruturaPara.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\bin\Debug\net6.0\Exercicio1078EstruturaPara.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\bin\Debug\net6.0\Exercicio1078EstruturaPara.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\bin\Debug\net6.0\Exercicio1078EstruturaPara.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\bin\Debug\net6.0\Exercicio1078EstruturaPara.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\refint\Exercicio1078EstruturaPara.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\Exercicio1078EstruturaPara.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projeto MVC\Exercicio1078EstruturaPara\Exercicio1078EstruturaPara\obj\Debug\net6.0\ref\Exercicio1078EstruturaPara.dll

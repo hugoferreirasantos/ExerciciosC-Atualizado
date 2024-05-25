@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioProposto04Vetor/1.0.0": {
+        "runtime": {
+          "ExercicioProposto04Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioProposto04Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

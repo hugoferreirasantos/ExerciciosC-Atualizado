@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1151EstruturaRepetiva", "Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva.csproj", "{B6145C44-6C7C-4DD8-8B81-B0FBF41417AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6145C44-6C7C-4DD8-8B81-B0FBF41417AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6145C44-6C7C-4DD8-8B81-B0FBF41417AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6145C44-6C7C-4DD8-8B81-B0FBF41417AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6145C44-6C7C-4DD8-8B81-B0FBF41417AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE8A7FE8-EAEC-43E2-A75A-343796C71614}
+	EndGlobalSection
+EndGlobal

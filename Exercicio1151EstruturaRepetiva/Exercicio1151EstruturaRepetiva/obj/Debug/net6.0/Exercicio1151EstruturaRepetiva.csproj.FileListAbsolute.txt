@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\bin\Debug\net6.0\Exercicio1151EstruturaRepetiva.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\bin\Debug\net6.0\Exercicio1151EstruturaRepetiva.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\bin\Debug\net6.0\Exercicio1151EstruturaRepetiva.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\bin\Debug\net6.0\Exercicio1151EstruturaRepetiva.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\bin\Debug\net6.0\Exercicio1151EstruturaRepetiva.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\refint\Exercicio1151EstruturaRepetiva.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\Exercicio1151EstruturaRepetiva.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1151EstruturaRepetiva\Exercicio1151EstruturaRepetiva\obj\Debug\net6.0\ref\Exercicio1151EstruturaRepetiva.dll

@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\bin\Debug\net6.0\Exercicio1046EstruturaCodicional.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\bin\Debug\net6.0\Exercicio1046EstruturaCodicional.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\bin\Debug\net6.0\Exercicio1046EstruturaCodicional.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\bin\Debug\net6.0\Exercicio1046EstruturaCodicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\bin\Debug\net6.0\Exercicio1046EstruturaCodicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\refint\Exercicio1046EstruturaCodicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\Exercicio1046EstruturaCodicional.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1046EstruturaCodicional\Exercicio1046EstruturaCodicional\obj\Debug\net6.0\ref\Exercicio1046EstruturaCodicional.dll

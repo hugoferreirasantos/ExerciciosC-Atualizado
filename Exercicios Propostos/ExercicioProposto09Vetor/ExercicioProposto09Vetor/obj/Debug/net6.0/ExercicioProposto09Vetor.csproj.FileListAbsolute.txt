@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\bin\Debug\net6.0\ExercicioProposto09Vetor.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\bin\Debug\net6.0\ExercicioProposto09Vetor.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\bin\Debug\net6.0\ExercicioProposto09Vetor.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\bin\Debug\net6.0\ExercicioProposto09Vetor.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\bin\Debug\net6.0\ExercicioProposto09Vetor.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\refint\ExercicioProposto09Vetor.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ExercicioProposto09Vetor.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicios Propostos\ExercicioProposto09Vetor\ExercicioProposto09Vetor\obj\Debug\net6.0\ref\ExercicioProposto09Vetor.dll

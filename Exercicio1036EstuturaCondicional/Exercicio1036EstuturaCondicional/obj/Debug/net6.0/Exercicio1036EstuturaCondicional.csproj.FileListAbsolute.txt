@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\bin\Debug\net6.0\Exercicio1036EstuturaCondicional.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\bin\Debug\net6.0\Exercicio1036EstuturaCondicional.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\bin\Debug\net6.0\Exercicio1036EstuturaCondicional.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\bin\Debug\net6.0\Exercicio1036EstuturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\bin\Debug\net6.0\Exercicio1036EstuturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\refint\Exercicio1036EstuturaCondicional.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\Exercicio1036EstuturaCondicional.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\Exercicio1036EstuturaCondicional\Exercicio1036EstuturaCondicional\obj\Debug\net6.0\ref\Exercicio1036EstuturaCondicional.dll

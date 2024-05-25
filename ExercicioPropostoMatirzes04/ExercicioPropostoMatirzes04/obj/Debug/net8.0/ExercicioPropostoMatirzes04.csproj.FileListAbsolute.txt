@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\bin\Debug\net8.0\ExercicioPropostoMatirzes04.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\bin\Debug\net8.0\ExercicioPropostoMatirzes04.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\bin\Debug\net8.0\ExercicioPropostoMatirzes04.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\bin\Debug\net8.0\ExercicioPropostoMatirzes04.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\bin\Debug\net8.0\ExercicioPropostoMatirzes04.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\refint\ExercicioPropostoMatirzes04.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ExercicioPropostoMatirzes04.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\ExercicioPropostoMatirzes04\ExercicioPropostoMatirzes04\obj\Debug\net8.0\ref\ExercicioPropostoMatirzes04.dll

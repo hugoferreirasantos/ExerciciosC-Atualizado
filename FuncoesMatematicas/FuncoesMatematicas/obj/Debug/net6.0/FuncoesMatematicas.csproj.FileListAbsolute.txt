@@ -1,0 +1,14 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\net6.0\FuncoesMatematicas.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\refint\FuncoesMatematicas.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\FuncoesMatematicas.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\net6.0\ref\FuncoesMatematicas.dll

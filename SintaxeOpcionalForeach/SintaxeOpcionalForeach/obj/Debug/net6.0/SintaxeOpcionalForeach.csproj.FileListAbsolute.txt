@@ -1,0 +1,15 @@
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\bin\Debug\net6.0\SintaxeOpcionalForeach.exe
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\bin\Debug\net6.0\SintaxeOpcionalForeach.deps.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\bin\Debug\net6.0\SintaxeOpcionalForeach.runtimeconfig.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\bin\Debug\net6.0\SintaxeOpcionalForeach.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\bin\Debug\net6.0\SintaxeOpcionalForeach.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.AssemblyInfoInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.AssemblyInfo.cs
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.csproj.CoreCompileInputs.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.sourcelink.json
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\refint\SintaxeOpcionalForeach.dll
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.pdb
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\SintaxeOpcionalForeach.genruntimeconfig.cache
+D:\Ambiente_Desenvolvimento\Aulas_C#\Projetos Visual Studio C sharp\SintaxeOpcionalForeach\SintaxeOpcionalForeach\obj\Debug\net6.0\ref\SintaxeOpcionalForeach.dll
